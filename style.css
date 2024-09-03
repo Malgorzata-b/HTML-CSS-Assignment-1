@@ -1,0 +1,92 @@
+h1 {
+  color: brown;
+  font-size: medium;
+  font-weight: 100;
+  margin-bottom: 15px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+header {
+  background-color: rgb(196, 184, 136);
+  display: flex;
+  flex-wrap: wrap;
+  flex-grow: 1;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #d3cdab;
+  margin: 0;
+  padding: 0;
+}
+
+.Button {
+  height: 30px;
+  width: 90px;
+  display: block;
+  padding: 2px;
+  margin-left: 1300px;
+}
+
+.Page-link {
+  height: 30px;
+  width: 100px;
+  display: block;
+  padding: 2px;
+  margin-right: 1300px;
+}
+
+#title {
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: xx-large;
+  font-style: normal;
+  text-align: center;
+}
+
+#Puppies {
+  display: block;
+  max-width: 100px;
+  border-radius: 100%;
+}
+
+#Bernese {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+p {
+  color: #333;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.List {
+  color: #333;
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 30px;
+}
+
+#Bernese-puppies {
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: xx-large;
+  font-weight: bold;
+  padding-left: 33%;
+}
+
+#Puppies2 {
+  display: block;
+  /* max-width: 100px; */
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
